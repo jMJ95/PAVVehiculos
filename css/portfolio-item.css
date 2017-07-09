@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Portfolio Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background:url('../css/img/fondo.jpg');
+	background-size:100%;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.fondcuerp{
+	background-color:silver;
+	float:center;
+	width:1200px;
+	margin-left:10px;
+}
+#regid{
+	float:right;
+	list-style:none;
+	color:white;
+	font-size:15px;
+	margin-top:15px;
+}	
+
+#regid li{
+	margin-left:30px;
+}
+#regid li:{
+}	
+.pie{	
+	position:absolute;
+	margin-left:-15px;
+	width:1200px;
+	color:black;
+	text-align:center;
+}
